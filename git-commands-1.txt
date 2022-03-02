@@ -1,0 +1,10 @@
+git status
+git init
+git config --global user.name "Radoslaw Serafin"
+git config --global user.email "radoslaw.serafin@ngn-itsolutions.eu"
+git config user.name "Radoslaw Serafin"
+git config user.email "radoslaw.serafin@ngn-itsolutions.eu"
+git add
+git commit -m ""
+git log
+Git diff <filename>
